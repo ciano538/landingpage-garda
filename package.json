@@ -1,0 +1,10 @@
+{
+  "name": "ai-wine-concierge-adesioni",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Landing page di adesione per le aziende — AI Wine Concierge",
+  "scripts": {
+    "dev": "vercel dev",
+    "static": "python3 -m http.server 3000"
+  }
+}
